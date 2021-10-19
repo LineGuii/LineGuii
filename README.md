@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @LineGuii
 - 👀 I’m interested in work with new things and learn from it.
 - 🌱 I’m currently learning React 
-- 📫 How to reach me:
-  guiannotta@hotmail.com
-  guilive360@hotmail.com
+- 📫 How to reach me: guiannotta@hotmail.com or guilive360@hotmail.com
 
 
 <!---
