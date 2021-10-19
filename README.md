@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LineGuii
+- 👋 Hi, I’m Guilherme "@LineGuii" Iannotta
 - 👀 I’m interested in work with new things and learn from it.
 - 🌱 I’m currently learning React 
 - 📫 How to reach me: guiannotta@hotmail.com or guilive360@hotmail.com
